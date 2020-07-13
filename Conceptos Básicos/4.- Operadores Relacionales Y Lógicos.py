@@ -14,3 +14,11 @@ print(mayor_igual)
 print(menor_igual)
 print(igual)
 print(diferente)
+
+resultado = True or True and diferente
+print(diferente)
+
+variable3 = 10
+variable4 = 10
+
+print(variable3 is variable4)
